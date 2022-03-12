@@ -1,4 +1,4 @@
-package VisualList;
+package visualList;
 
 import binaryTree.BinaryTree;
 import logging.*;
