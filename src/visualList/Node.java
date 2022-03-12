@@ -1,4 +1,4 @@
-package VisualList;
+package visualList;
 
 import javax.swing.*;
 import java.awt.*;
